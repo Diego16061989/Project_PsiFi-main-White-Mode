@@ -116,7 +116,7 @@ header {
 }
 
 .fundo{
-  background-color: #F5C8EC;
+  background-color: #f5c8eca9;
   height: 20000px;
   width: 70%;
 }
@@ -152,7 +152,7 @@ header {
   float: left;
   margin-left: 2%;
   font-size: 1.2em;
-  color: antiquewhite;
+  color: rgb(41, 40, 40);
 
 }
 
